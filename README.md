@@ -1,1 +1,3 @@
-# demo-rep
+# demo
+
+This is my demo repository!
